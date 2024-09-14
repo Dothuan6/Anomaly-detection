@@ -1,0 +1,5 @@
+- chay với frame khác nhau
+- normalize cf (lưu kết quả lại file text)
+- phân tích phan lớp dữ liệu
+- phân tích các dac diem cua tung loai phan lop
+- lapexcel phan tich cac nghien cuu lien quan, moi nghien cuu trinh bai 5 xban, so DOI, tên, tóm tắt phương pháp, data sử dụng, kết quả trên data, u va khuyết pp này.

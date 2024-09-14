@@ -1,0 +1,14 @@
+- Abuse(lạm dụng) : video cho thấy các hành động xấu,tàn nhẫn hoặc bạo lực đến người già, trẻ em, động vật và phụ nữ.
+- Burglary(Trộm) : Video chưa các sự kiện khi có người đột nhập vào một tòa nhà hoặc ngôi nhà với ý định thực hiện hành vi trộm cắp, không bao gồm đánh nhau.
+- Robbery(Cướp bốc) : Video chưa các hành vi kẻ trộm lấy tiền bất hợp pháp bằng vũ lực, hoặc đe dọa. Không gồm bắn súng.
+- Stealing(trộm cắp) : Video chứa các sự kiện lấy tiền hoặc tài sản âm thầm không được cho phép. Không bao gồm trộm trong cửa hàng.
+- Shooting(bắn súng) : Video chứa các sự kiện dùng súng bắn ai đó.
+- Shoplifting(trộm trong cửa hàng) : Video chứa sự kiện trộm cắp hàng hóa trong cửa hàng khi đóng giả là người mua.
+- Assault(Tấn công) : Video chứa các sự kiện tấn công hoặc dùng bao lực với ai đó. Người bị tấn công không có hành vi đánh trả.
+- Fighting(Đánh nhau) : Video chứa các sự kiện 2 hoặc nhiều người tấn công lẫn nhau.
+- Arson(Đốt phá) : Video chưa các sự kiện có người đang cố tình đốt tài sản.
+- Explosion(Vụ nổ) : Video cho thấy các sự kiện vật gì đó nổ, không bao gồm hành vi ai đó cố ý làm nổ hoặc đốt.
+- Arrest(bắt giữ) : Video cho thấy cảnh sát đang bắt giữ đối tượng nào đó.
+- RoadAccident(Tai nạn xe) : video về vụ tại nạn xe bao gồm người đi xe đạp, người đi bộ hoặc xe máy.
+- Vandalism(Phá hoại) : Video về sự kiện cố tình phá hoại, bao gồm vẽ bậy lên tường, cố ý phá hoại gây thiệc hại về tài sản chưa được cho phép.
+- Orders(Sự kiện khác) : video về các sự kiện diễn ra hằng ngày, bao gồm cảnh trong siêu thị, cảnh ngoài trời bao gồm ngày và đêm.

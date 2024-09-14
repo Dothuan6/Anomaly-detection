@@ -1,0 +1,7 @@
+dataset/Train
+dataset/Test
+Normal_Videos_event
+__pycache__
+.venv
+dataset
+temporal_anomaly_detection
